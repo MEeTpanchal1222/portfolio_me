@@ -5,11 +5,11 @@
 ##
 <div align="center">
 
- <img src="https://github.com/MauryaAayush/portfolio_website/assets/143180849/bd996886-2d72-449c-bb83-1614d9512912" height=500px hspace=20>
- <img src="https://github.com/MauryaAayush/portfolio_website/assets/143180849/bf09c0b0-a42d-4c68-a8be-dd93f4c09924" height=500px hspace=20>
+ <img src="https://github.com/MEeTpanchal1222/portfolio_me/assets/143181413/187ed47a-401c-4ca0-934f-8dde95fcec17" height=500px hspace=20>
+ <img src="https://github.com/MEeTpanchal1222/portfolio_me/assets/143181413/c606b66d-db87-4800-8920-744a11b8ee3b" height=500px hspace=20>
 
 
-<video src ="https://github.com/MauryaAayush/portfolio_website/assets/143180849/8f128caf-5422-4a12-b674-bd67dc14879c">
+
 
 
   
